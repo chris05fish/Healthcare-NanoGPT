@@ -24,7 +24,7 @@ Dependencies:
 
 ## quick start
 
-Train model on healthcare chatdoctor dataset
+prepare the dataset by fitting it into the model
 
 ```
 $ python data/health/prepare.py   
@@ -34,6 +34,8 @@ This creates a `train.bin` and `val.bin` in that data directory. Now it is time 
 
 
 **I only have a macbook** (or other cheap computer). No worries, we can still train a GPT but we want to dial things down a notch. I recommend getting the bleeding edge PyTorch nightly ([select it here](https://pytorch.org/get-started/locally/) when installing) as it is currently quite likely to make your code more efficient. But even without it, a simple train run could look as follows:
+
+Train model on healthcare chatdoctor dataset
 
 ```
 $ python3 train.py config/train_shakespeare_char.py \         
