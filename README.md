@@ -24,7 +24,7 @@ Dependencies:
 
 ## quick start
 
-Train model on healthcare chatdoctor dataset (Note .csv file not uploaded on github for large size, have to download data locally and into same directory)
+Train model on healthcare chatdoctor dataset
 
 ```
 $ python data/health/prepare.py   
