@@ -87,3 +87,5 @@ For more questions/discussions feel free to stop by **#nanoGPT** on Discord:
 https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 All nanoGPT experiments are powered by GPUs on [Lambda labs](https://lambdalabs.com), my favorite Cloud GPU provider. Thank you Lambda labs for sponsoring nanoGPT!
+
+Dataset on huggingface: https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k
