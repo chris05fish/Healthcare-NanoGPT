@@ -24,6 +24,12 @@ Dependencies:
 
 ## quick start
 
+Download the dataset as csv to current directory
+
+```
+$ python convert.py   
+```
+
 prepare the dataset by fitting it into the model
 
 ```
